@@ -1,0 +1,7 @@
+F:\EDRIVE\Software Engineering Sem 2\Programming 2\Assignment 4\Assignment  4\obj\Debug\netcoreapp3.1\Assignment  4.csproj.AssemblyReference.cache
+F:\EDRIVE\Software Engineering Sem 2\Programming 2\Assignment 4\Assignment  4\obj\Debug\netcoreapp3.1\Assignment__4.Catalog.resources
+F:\EDRIVE\Software Engineering Sem 2\Programming 2\Assignment 4\Assignment  4\obj\Debug\netcoreapp3.1\Assignment__4.Product.resources
+F:\EDRIVE\Software Engineering Sem 2\Programming 2\Assignment 4\Assignment  4\obj\Debug\netcoreapp3.1\Assignment  4.csproj.GenerateResource.cache
+F:\EDRIVE\Software Engineering Sem 2\Programming 2\Assignment 4\Assignment  4\obj\Debug\netcoreapp3.1\Assignment  4.AssemblyInfoInputs.cache
+F:\EDRIVE\Software Engineering Sem 2\Programming 2\Assignment 4\Assignment  4\obj\Debug\netcoreapp3.1\Assignment  4.AssemblyInfo.cs
+F:\EDRIVE\Software Engineering Sem 2\Programming 2\Assignment 4\Assignment  4\obj\Debug\netcoreapp3.1\Assignment  4.csproj.CoreCompileInputs.cache

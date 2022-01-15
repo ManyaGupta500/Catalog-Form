@@ -1,0 +1,6 @@
+Pillow	Home	30
+Bookcase	Home	74
+Table	Home	245
+Smart TV	Electronics	500
+Nintendo	Electronics	399
+Nintendo		Electronics	100
